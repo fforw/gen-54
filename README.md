@@ -1,3 +1,3 @@
-# Simple Starter
+# gen-54
 
-Simple JS build starter for simple, client-only demos.
+Circle layers with cutouts and stripyness
